@@ -1,3 +1,5 @@
+## Social Media Network Analysis using the Stanford Network Analysis Platform
+
 Social media network analysis helps in understanding the dynamics of social interactions, behaviours, and trends within digital platforms. 
 
 <br>
